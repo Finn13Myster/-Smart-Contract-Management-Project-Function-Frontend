@@ -86,7 +86,7 @@ If you encounter nonce errors in Solidity with MetaMask:
 4. **Scroll Down to Find and Click on "Clear Activity Tab Data."**
 
 ## Author
-- Franz Leeann U. Ferry
+- Franz Leeann U. Ferry [@LinkedIn](www.linkedin.com/in/franz-leeann-ferry-a286552a2)
   
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details
